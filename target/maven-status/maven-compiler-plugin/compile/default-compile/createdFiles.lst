@@ -15,7 +15,6 @@ com\ybkj\gun\model\SosMassage.class
 com\ybkj\gun\model\SosMassageExample.class
 com\ybkj\gun\mapper\GunMapper.class
 com\ybkj\gun\mapper\DeviceLocationMapper.class
-com\ybkj\gun\App.class
 com\ybkj\gun\model\DeviceExample$GeneratedCriteria.class
 com\ybkj\gun\model\Device.class
 com\ybkj\gun\service\impl\DeviceServiceImpl.class
@@ -23,6 +22,7 @@ com\ybkj\gun\model\DeviceExample$Criteria.class
 com\ybkj\gun\model\GunExample.class
 com\ybkj\gun\service\SosMassageSerivce.class
 com\ybkj\gun\model\MissionExample$Criterion.class
+com\ybkj\App.class
 com\ybkj\gun\controller\DeviceLocationController.class
 com\ybkj\gun\mapper\WebUserMapper.class
 com\ybkj\gun\service\DeviceGunSerivce.class
